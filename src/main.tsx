@@ -18,7 +18,7 @@ import { ReactQueryPagination } from "./examples/ReactQueryPagination";
 import "./styles.css";
 
 const rootElement = document.getElementById("root");
-const root = ReactDOMClient.createRoot(rootElement);
+const root = ReactDOMClient.createRoot(rootElement as HTMLElement);
 
 const queryClient = new QueryClient({
   defaultOptions: {
