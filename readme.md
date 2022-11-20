@@ -7,8 +7,8 @@ This repo contains all the code for the React query videos.
 
 # Run the examples
 
-- `npm install`
-- `npm start`
+- `yarn install`
+- `yarn dev`
 
 # By SocialNerds
 * [SocialNerds.gr](https://www.socialnerds.gr/)
